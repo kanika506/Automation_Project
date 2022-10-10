@@ -13,6 +13,8 @@ MyTestCase
 
     open browser        ${url1}      ${browser}
     maximize browser window
+
+    Log To Console    Updation
 `
     #It closes the latest browser only
     #close browser
