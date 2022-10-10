@@ -21,6 +21,8 @@ Login Test
     click element             xpath://button[text() = 'Log in']
     close browser
 
+    Log to console              Updation
+
 *** Keywords ***
 LogIntoApplication
     click link                xpath://a[@class="ico-login"]
